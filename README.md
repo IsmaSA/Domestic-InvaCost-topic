@@ -5,4 +5,4 @@ Cleaning matching data
  - Help file: Some specific species e.g. Vicuña is not find as Domestic species, so I fill these gaps consulting this help file
  - Cleaning_data: Reproducible code to the filtering steps
  - 02_Domestic_analyses: Reproducible code to main analyses
-
+ - Domestic.R refers to "overall" code used for the figures and analyses
