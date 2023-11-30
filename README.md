@@ -1,4 +1,4 @@
-<img align="right" src="Icons/InvaCostLogoIdea10.jpg" width="150" style="margin-top: 40px">
+<img align="right" src="Icons/InvaCostLogoIdea10 (1).jpg" width="150" style="margin-top: 40px">
 
 # The wild cost of invasive feral animals worldwide
 ### Leader: <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Ismael Soto</a>
@@ -13,6 +13,9 @@ Invasive non-native species are a growing burden to economies worldwide. While d
 
 **Keywords**: biological invasions; agriculture; non-native species; economic impacts; conservation; InvaCost
 
+<img align="central" src="Icons/domestic.png" width="400" style="margin-top: 400px"> 
+
+
 ## <a href="https://github.com/IsmaSA/Aquaculture/tree/master/Code">Script:</a>
 Code created by: <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Ismael Soto</a><br>  
 
@@ -20,11 +23,9 @@ Code created by: <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Is
 
 [mail]: mailto:isma-sa@hotmail.com
 
-Reproducible to create the plots of the paper
-- <code>Fran.R</code>
 
-<img align="right" src="Icons/Logo_(with_name)_of_University_of_South_Bohemia.svg.png" width="300" style="margin-top: 80px">                                                                                    
- <img align="right" src="Icons/descarga.png" width="300" style="margin-top: 80px">
+                                                                                   
+ <img align="right" src="Icons/descarga (3).png" width="300" style="margin-top: 80px">
 
 
 
