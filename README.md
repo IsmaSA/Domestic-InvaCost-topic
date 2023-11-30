@@ -15,8 +15,6 @@ Invasive non-native species are a growing burden to economies worldwide. While d
 
 <img align="central" src="Icons/domestic.png" width="400" style="margin-top: 400px"> 
 
-
-## <a href="https://github.com/IsmaSA/Aquaculture/tree/master/Code">Script:</a>
 Code created by: <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Ismael Soto</a><br>  
 
 [<img target="_blank" alt="Ismael Soto | Mail" width="90px" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail] 
@@ -29,7 +27,7 @@ Code created by: <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Is
 
 
 
-# Domestic-InvaCost-topic
+## Description of help files
 Cleaning matching data
  - DAD-IS.csv: refers to DAD-IS FAO database (domestic species)
  - Extract_names.xlsx: refers to scientific names of domestic and wild species from: https://en.wikipedia.org/wiki/List_of_domesticated_animals
